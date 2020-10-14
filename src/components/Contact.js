@@ -6,7 +6,7 @@ function Contact() {
     <div>
       <div className="Contact">
         <img
-          className="avatar"
+          class="avatar"
           src="https://randomuser.me/api/portraits/men/38.jpg"
         ></img>
         <h1 className="name">Jar Prescott</h1>
